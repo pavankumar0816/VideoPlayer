@@ -73,7 +73,7 @@ https://ik.imagekit.io/your_id/your_video.mp4
 
 ## Using video.js for Enhanced Playback
 
-To extend the basic <video> tag, this project also integrates video.js, an open-source HTML5 video player.
+To extend the basic `<video>` tag, this project also integrates video.js, an open-source HTML5 video player.
 
 ## Installation : npm install --save-dev video.js
 
